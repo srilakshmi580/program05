@@ -1,0 +1,2 @@
+# program05
+hiihelo
